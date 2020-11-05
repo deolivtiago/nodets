@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // pasta saida
+    "module": "commonjs", // converter import para require
+    "target": "es2019", // compatibilidade navegadores e servidor
+    "esModuleInterop": true, // compatibilidade com modules js
+    "allowJs": true // permite config js
+  }
+}
